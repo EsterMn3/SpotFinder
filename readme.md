@@ -8,7 +8,6 @@ SpotFinder is a React application that allows users to create a personalized col
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
  <a href="https://spotfinder-ester.netlify.app//">
